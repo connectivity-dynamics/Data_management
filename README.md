@@ -9,7 +9,8 @@ Overview of how raw data, Kilosort outputs and QC reports are organised on the c
 | In vivo (`Test_user`) | Test_User | `/sc-projects/sc-proj-cc15-ag-peng/Invivo_npx/Test_user` |
 
 Like:
-
+| Dataset | Owner | Root path |
+| --- | --- | --- |
 | In vivo (`Micr`) | Miguel | `/sc-projects/sc-proj-cc15-ag-peng/Invivo_npx/Micr` |
 | Ex vivo (`Yangfan`) | Yangfan | `/sc-projects/sc-proj-cc15-ag-peng/Exvivo_npx/Yangfan` |
 | Ex vivo (`Manfredi`) | Yangfan | `/sc-projects/sc-proj-cc15-ag-peng/Exvivo_npx/Manfredi` |
