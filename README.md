@@ -23,7 +23,7 @@ Each dataset has three top-level folders: **raw**, **proc** and **quality_contro
 ## 1. Miguel (in vivo) — `Invivo_npx/Micr/`
 
 ```
-Micr/
+Invivo_npx/Micr/
 ├── mc_raw/
 │   └── {subject}/                         [e.g. mc020]
 │       └── {session}/                     [e.g. mc020_260629]
@@ -67,10 +67,10 @@ Notes:
 
 ---
 
-## 2. Yangfan (Ex vivo) — `Exvivo_npx/`
+## 2. Yangfan (Ex vivo) — `Exvivo_npx/Yangfan/`
 
 ```
-Exvivo_npx/
+Exvivo_npx/Yangfan/
 ├── yp_raw/
 │   └── {subject_date}/                    [e.g. yp_260331]
 │       └── {timestamp}_s{N}/              [e.g. 2026-03-31_16-17-33_s2]
