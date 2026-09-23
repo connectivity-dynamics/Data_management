@@ -13,7 +13,7 @@ Like:
 | --- | --- | --- |
 | In vivo (`Micr`) | Miguel | `/sc-projects/sc-proj-cc15-ag-peng/Invivo_npx/Micr` |
 | Ex vivo (`Yangfan`) | Yangfan | `/sc-projects/sc-proj-cc15-ag-peng/Exvivo_npx/Yangfan` |
-| Ex vivo (`Manfredi`) | Yangfan | `/sc-projects/sc-proj-cc15-ag-peng/Exvivo_npx/Manfredi` |
+| Ex vivo (`Manfredi`) | Manfredi | `/sc-projects/sc-proj-cc15-ag-peng/Exvivo_npx/Manfredi` |
 | Ex patch (`Amber`) | Amber | `/sc-projects/sc-proj-cc15-ag-peng/Exvivo_patch/Amber` |
 
 Each dataset has three top-level folders: **raw**, **proc** and **quality_control_report**.
