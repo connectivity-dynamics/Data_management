@@ -6,10 +6,14 @@ Overview of how raw data, Kilosort outputs and QC reports are organised on the c
 
 | Dataset | Owner | Root path |
 | --- | --- | --- |
-| In vivo (`Test_user`) | Test_User | `/sc-projects/sc-proj-cc15-ag-peng/Invivo_npx/` |
-| In vivo (`Micr`) | Miguel | `/sc-projects/sc-proj-cc15-ag-peng/Invivo_npx/` |
-| Ex vivo (`Yangfan`) | Yangfan | `/sc-projects/sc-proj-cc15-ag-peng/Exvivo_npx/` |
-| Ex patch (`Amber`) | Amber | `/sc-projects/sc-proj-cc15-ag-peng/Exvivo_patch/` |
+| In vivo (`Test_user`) | Test_User | `/sc-projects/sc-proj-cc15-ag-peng/Invivo_npx/Test_user` |
+
+Like:
+
+| In vivo (`Micr`) | Miguel | `/sc-projects/sc-proj-cc15-ag-peng/Invivo_npx/Micr` |
+| Ex vivo (`Yangfan`) | Yangfan | `/sc-projects/sc-proj-cc15-ag-peng/Exvivo_npx/Yangfan` |
+| Ex vivo (`Manfredi`) | Yangfan | `/sc-projects/sc-proj-cc15-ag-peng/Exvivo_npx/Manfredi` |
+| Ex patch (`Amber`) | Amber | `/sc-projects/sc-proj-cc15-ag-peng/Exvivo_patch/Amber` |
 
 Each dataset has three top-level folders: **raw**, **proc** and **quality_control_report**.
 
@@ -62,10 +66,10 @@ Notes:
 
 ---
 
-## 2. Yangfan (ex vivo) — `exvivo_npx/`
+## 2. Yangfan (Ex vivo) — `Exvivo_npx/`
 
 ```
-exvivo_npx/
+Exvivo_npx/
 ├── yp_raw/
 │   └── {subject_date}/                    [e.g. yp_260331]
 │       └── {timestamp}_s{N}/              [e.g. 2026-03-31_16-17-33_s2]
